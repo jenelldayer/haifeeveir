@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezeizaed.samech.top/sitemap.xml
